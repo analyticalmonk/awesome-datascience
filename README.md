@@ -326,6 +326,7 @@ We are more than 3,190 data scientists and data geeks in our community.
  - [Data School](https://www.youtube.com/channel/UCnVzApLJE2ljPZSeQylSEyg) - Data Science Education
  - [Neural Nets for Newbies by Melanie Warrick (May 2015)](https://www.youtube.com/watch?v=Cu6A96TUy_o)
  - [Google DeepMind co-founder Shane Legg - Machine Super Intelligence](https://www.youtube.com/watch?v=evNCyRL3DOU)
+ - [Data Science: Where are we going? - Dr. DJ Patil](https://www.youtube.com/watch?v=3_1reLdh5xw)
 
 
 ## Toolboxes - Environment
